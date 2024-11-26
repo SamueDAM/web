@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../Act3GIT_VS_SamuelDAM"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "web"
+	}
+}
